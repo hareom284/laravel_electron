@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zawzawwin-dev/laravel-electron.git"
+    "url": "git+https://github.com/hareom284/laravel-electron.git"
   },
   "keywords": [
     "laravel",
@@ -21,9 +21,9 @@
   "author": "Host Myanmar Organization",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zawzawwin-dev/laravel-electron/issues"
+    "url": "https://github.com/hareom284/laravel-electron/issues"
   },
-  "homepage": "https://github.com/zawzawwin-dev/laravel-electron#readme",
+  "homepage": "https://github.com/hareom284/laravel-electron#readme",
   "dependencies": {
     "electron": "^22.0.0",
     "electron-packager": "^17.1.1",
