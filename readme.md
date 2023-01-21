@@ -16,6 +16,18 @@
 ```bash
  cd www
 ```
+
+  <p>
+  
+  copy your all  folder under php directory and paste it here in php directory this step is configure all your php related dependencies to work and run 
+  laravel and you don't need to start xampp
+  
+  </p>
+  
+  <b>✨✨You can find php folder under the directory of xampp or lampp✨✨</b>
+  
+  
+  
 ```bash
  composer install
 ```
@@ -47,7 +59,6 @@ working on laravel project and that can build electron app</span>
 -  [x]  sqlite
 -  [x]  electron-builder
 -  [x]  laravel 
--  [x]  freshui
 
 
 
