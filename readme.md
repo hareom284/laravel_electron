@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-  git clone https://github.com/zawzawwin-dev/laravel-electron.git
+  git clone https://github.com/hareom284/laravel-electron.git
 ```
 
 ```bash
